@@ -1,3 +1,11 @@
+# Greeting Website
+
+<br>
+
+Good Morning if time between 1 to 11am <br>
+Good Afternood if time between 12PM to 7PM <br>
+Good Night if time between 7PM till Midnight 
+
 <br>
 <img src="Img/goodmorning.png"> </img><br>
 <img src="Img/goodafternoon.png"> </img><br>
