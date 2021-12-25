@@ -1,5 +1,7 @@
 <br>
-<img src=""> </img>
+<img src="Img/goodmorning.png"> </img><br>
+<img src="Img/goodafternoon.png"> </img><br>
+<img src="Img/goodnight.png"> </img>
 <br>
 <a href="#"> Website </a>
 <br>
